@@ -10,6 +10,7 @@ namespace WebSite_BusinessOdyssey
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
